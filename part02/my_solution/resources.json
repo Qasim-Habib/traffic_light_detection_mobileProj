@@ -1,0 +1,8 @@
+
+[ 
+    {
+        "img": "image/aachen_000001_000019_leftImg8bit.png",
+        "json": "json/aachen_000001_000019_gtFine_polygons.json",
+        "label_img": "image/aachen_000001_000019_gtFine_labelIds.png"
+    } 
+]
